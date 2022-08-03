@@ -4,7 +4,6 @@ This is the unique official github of Vital Block Audit, please check our github
 
 💡Vital Block Provides following services🎯
 
-• Smart Contract Free Check on Telegram Group
 • Smart Contract Premium Auditing
 • KYC
 • NFT Smart Contract Premium Auditing 
@@ -12,7 +11,7 @@ This is the unique official github of Vital Block Audit, please check our github
 💡How to request an audit 🔍?
 Method 1:
 
-You can get a quote for an audit DM @ t.me/Vitalblock_CMO on telegram or simply ask in our official telegram group: https://t.me/vital_block
+You can get a quote for an audit DM @ https://t.me/Vitalblock_CMO on telegram or simply ask in our official telegram group: https://t.me/vital_block
 
 Method 2:
 
